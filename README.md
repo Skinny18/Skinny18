@@ -1,6 +1,6 @@
-# Mateus Andriola
+# Gabriel Carlos (Skinny18)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Andriola-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusandriola/)](https://www.linkedin.com/in/gabriel-carlos-carvalho-pinto-5765b5226/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Carlos-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusandriola/)](https://www.linkedin.com/in/gabriel-carlos-carvalho-pinto-5765b5226/)
 
 - **💻 Desenvolvedor FullStack**, com conhecimento em ReactJS,  
   NodeJS, MySQL, MongoDB:
