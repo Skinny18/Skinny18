@@ -15,13 +15,13 @@
   <rect width="480" height="130" fill="#111111" x="10" y="10" rx="7px" ry="7px">
   </rect>
   <text font-size="3rem" x="300" y="55" font-family="Source code pro, sans-serif" font-weight="500"
-    filter="url(#f2)">Matan
+    filter="url(#f2)">Skinny18
     <animate attributeType="XML" attributeName="fill" values="#360F54; #FF000055; #00ff0055; #360F54" dur="6s"
       repeatCount="indefinite" />
   </text>
   <text font-size="1rem" x="20" fill="#555555" y="30" font-family="Source code pro, sans-serif" font-weight="400">
     <tspan>
-      <tspan fill="#11ff1133">andriola</tspan>
+      
       <tspan fill="#6666FFaa">:~$</tspan>
       <tspan>echo $USER</tspan>
     </tspan>
@@ -29,7 +29,7 @@
       Skinny18
     </tspan>
     <tspan dy="1.4em" x="20">
-      <tspan fill="#11ff1133">andriola</tspan>
+      
       <tspan fill="#6666FFaa">:~$</tspan>
       <tspan>echo $TECS</tspan>
     </tspan>
