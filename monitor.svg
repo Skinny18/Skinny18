@@ -14,7 +14,11 @@
   </rect>
   <rect width="480" height="130" fill="#111111" x="10" y="10" rx="7px" ry="7px">
   </rect>
- 
+   <text font-size="3rem" x="300" y="55" font-family="Source code pro, sans-serif" font-weight="500"
+    filter="url(#f2)">Gabriel
+    <animate attributeType="XML" attributeName="fill" values="#360F54; #FF000055; #00ff0055; #360F54" dur="6s"
+      repeatCount="indefinite" />
+  </text>
   <text font-size="1rem" x="20" fill="#555555" y="30" font-family="Source code pro, sans-serif" font-weight="400">
     <tspan>
       
