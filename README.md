@@ -17,7 +17,7 @@
 ### 🛠️ GitHub Stats
 
 <div>
-  <a href="https://github.com/Matan18">
+  <a href="https://github.com/Skinny18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skinny18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skinny18&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
