@@ -33,8 +33,8 @@
       <tspan fill="#6666FFaa">:~$</tspan>
       <tspan>echo $TECS</tspan>
     </tspan>
-    <tspan dy="1.4em" x="20">PHP, Django, Docker, ReactJS, NodeJS, MongoDB, MySQL,ORACLE</tspan>
-    <tspan dy="1.4em" x="20"> Javascript</tspan>
+    <tspan dy="1.4em" x="20">PHP, ReactJS, NodeJS, MongoDB, MySQL,ORACLE</tspan>
+    <tspan dy="1.4em" x="20"> Django, Docker, Javascript</tspan>
   </text>
 
 
