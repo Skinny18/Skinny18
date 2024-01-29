@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Carlos-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusandriola/)](https://www.linkedin.com/in/gabriel-carlos-carvalho-pinto-5765b5226/)
 
 - **💻 Desenvolvedor FullStack**, com conhecimento em ReactJS,  
-  NodeJS, Django, PHP, MySQL, PostgreSQL, MongoDB:
+  NodeJS, Django, PHP, MySQL, PostgreSQL, MongoDB, Docker:
 
 - 📫 E-mail para contato: gcgabriel257@gmail.com
 
